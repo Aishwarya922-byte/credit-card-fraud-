@@ -46,7 +46,7 @@ Fraud distribution is imbalanced
 Data visualization highlights suspicious trends
 
 Clean datasets improve analytical accuracy
-
+## Business Goals
 Transform raw transaction data into actionable insights that help organizations improve fraud monitoring, prioritize high-risk activities, and support data-driven financial decision.
 
 
