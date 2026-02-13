@@ -1,14 +1,13 @@
 
-Credit Card Fraud Analysis Using Python
-Project Overview
-
+# Credit Card Fraud Analysis Using Python
+## Project Overview
 This project performs end-to-end analysis of credit card transaction data using Python. The dataset is cleaned, processed, and explored to uncover fraud-related behavioral patterns. The workflow demonstrates a real-world data analyst pipeline that transforms raw data into actionable insights for fraud monitoring and risk awareness.
 
-Problem Statement
+## Problem Statement
 
 Credit card fraud is a critical financial challenge that requires systematic analysis of transaction behavior. Raw transaction datasets often hide suspicious patterns that cannot be detected without structured data cleaning and exploration. This project aims to identify fraud trends and support data-driven decision-making in fraud risk management.
 
-Tools & Technologies
+## Tools & Technologies
 
 Python
 
@@ -22,7 +21,7 @@ Matplotlib
 
 Jupyter Notebook
 
-Work Performed
+## Work Performed
 
 Data cleaning and preprocessing
 
@@ -36,7 +35,7 @@ Statistical visualization
 
 Fraud pattern identification
 
-Key Insights
+## Key Insights
 
 Fraud transactions show identifiable behavioral patterns
 
@@ -47,8 +46,6 @@ Fraud distribution is imbalanced
 Data visualization highlights suspicious trends
 
 Clean datasets improve analytical accuracy
-
-Business Goal
 
 Transform raw transaction data into actionable insights that help organizations improve fraud monitoring, prioritize high-risk activities, and support data-driven financial decision.
 
